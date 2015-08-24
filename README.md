@@ -11,8 +11,8 @@ For today's group project, you'll be building out the User class of Snapchat fro
 
  Before you start actually coding, spend 5 - 10 minutes planning out how your class will function and what it will look like. Pseudo-code can be really helpful in designing your class.
 
- **Think about:**
- + What attributes does that class have?(i.e. username? password?)
+**Think about:**
++ What attributes does that class have?(i.e. username? password?)
 + What actions will they be able to take?
 + What's your MVP (minimum viable product)
 +  How can users be able to interact with other users?
@@ -22,7 +22,9 @@ If you're all fired up and ready to go, get to planning! If not...keep reading.
 ## I Need More
 
 We know that every class has both attributes and actions. Let's break those down:
-+ **Attributes:** Every snapchat user has a username and a snap story, so we know we'll at least need those attributes. Can you think of any others? How does your class store snap chats you receive? Maybe we need another attribute for that.
++ **Attributes:** 
+  + Every snapchat user has a username and a snap story, so we know we'll at least need those two attributes. 
+  + Can you think of any others? How does your class store snapchats you receive? Maybe we need another attribute for that?
 
 + **Actions:** 
   + A user can send a snap. How does that work? How does this method know what image you're sending and who you're sending it to?
