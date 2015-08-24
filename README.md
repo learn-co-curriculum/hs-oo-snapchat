@@ -1,6 +1,6 @@
 # Group Project - Object Oriented Snapchat
 
-<img src="https://s3.amazonaws.com/after-school-assets/snapchat.gif" width="300" align="right" hspace="10">
+<img src="https://s3.amazonaws.com/after-school-assets/snapchat.gif" width="150" align="right" hspace="10">
 
 This group project is designed to be open-ended. This means that not only will you be the developer, but also the product designer and project manager. It's up to you decide how to build your very own version of Snapchat. There is no right or wrong as long as your app operates the way you expect it to.
 
