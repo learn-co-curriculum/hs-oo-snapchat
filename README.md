@@ -17,6 +17,7 @@ For today's group project, you'll be building out the User class of Snapchat fro
 + What's your MVP (minimum viable product)
 +  How can users be able to interact with other users?
 
+If you're all fired up and ready to go, get to planning! If not...keep reading.
 
 ## I Need More
 
