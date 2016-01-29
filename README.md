@@ -35,4 +35,4 @@ We know that every class has both attributes and actions. Let's break those down
 
 
 
-<a href='https://learn.co/lessons/hs-oo-snapchat' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-oo-snapchat' title='Group Project - Object Oriented Snapchat'>Group Project - Object Oriented Snapchat</a> on Learn.co and start learning to code for free.</p>
